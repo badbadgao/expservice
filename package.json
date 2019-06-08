@@ -1,0 +1,27 @@
+{
+  "name": "expservice",
+  "version": "1.0.0",
+  "description": "express service for bill application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badbadgao/expservice.git"
+  },
+  "keywords": [
+    "express",
+    "js",
+    "service"
+  ],
+  "author": "wei gao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/badbadgao/expservice/issues"
+  },
+  "homepage": "https://github.com/badbadgao/expservice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
